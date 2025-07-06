@@ -6,4 +6,5 @@ A key aspect was to process the data andcompare the effectiveness of several cla
 The dataset “Mushroom Dataset” contains only categorical variables, which allows classification analysis using different machine learning algorithms. 
 
 UCI Repo: https://archive.ics.uci.edu/dataset/73/mushroom
+
 Files: agaricus-lepiota.names, agaricus-lepiota.data
