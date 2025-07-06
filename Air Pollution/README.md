@@ -5,6 +5,6 @@ The project used the “Bike Sharing Dataset,” which includes data from Washin
 # Goal
 The goal was to build a model with the highest possible accuracy of forecasts, as well as to identify the most important characteristics affecting the number of rentals.
 
-#Dataset
+# Dataset
 UCI repo: https://archive.ics.uci.edu/dataset/275/bike+sharing+dataset
 File: day.csv
